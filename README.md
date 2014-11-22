@@ -20,9 +20,10 @@ To create one R script called run_analysis.R that does the following.
 Steps to work on this course project:
 
 1.	Download the data source and put into a folder in the local drive.UCI HAR Dataset folder created with the subdirectory.
-2.	Created and saved run_analysis.R in the parent folder of UCI HAR Dataset, then set as your working directory using setwd()function in RStudio.
-3.	Ran source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
+2.	Created and saved run_analysis.R in the parent folder of UCI HAR Dataset, then set as working directory using setwd()function in RStudio.
+3.	Ran source("run_analysis.R"), then it will generate a new file tiny_data.txt in the working directory.
 
 Dependencies:
-run_analysis.R file will help you to install the dependencies automatically. It depends on reshape2 and data.table.
+
+run_analysis.R file will help to install the dependencies automatically. It depends on reshape2 and data.table.
 
